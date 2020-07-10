@@ -1,5 +1,5 @@
 ---
-title: What Are You Watching
+title: What Are You Reading
 date: "2020-07"
 description: Reading List
 ---
