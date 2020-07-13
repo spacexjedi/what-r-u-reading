@@ -7,3 +7,4 @@ description: Reading List
 #### Reading
 
  - [ ] *Cassandra Clare Book 11*
+ - [ ] *Cassandra Clare Book 12*
